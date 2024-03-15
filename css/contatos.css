@@ -57,7 +57,7 @@ textarea {
 }
 
 .contatos-background {
-  background-image: url(./imgs/background-contatos.png);
+  background-image: url(../imgs/background-contatos.png);
   background-position: 50% 50%;
   background-size: cover;
   width: 100%;

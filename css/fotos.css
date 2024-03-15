@@ -32,22 +32,22 @@
 }
 
 .foto1 {
-  background-image: url(imgs/foto1.jpg);
+  background-image: url(../imgs/foto1.jpg);
 }
 .foto2 {
-  background-image: url(imgs/foto2.jpg);
+  background-image: url(../imgs/foto2.jpg);
 }
 .foto3 {
-  background-image: url(imgs/foto3.jpg);
+  background-image: url(../imgs/foto3.jpg);
 }
 .foto4 {
-  background-image: url(imgs/foto4.jpg);
+  background-image: url(../imgs/foto4.jpg);
 }
 .foto5 {
-  background-image: url(imgs/foto5.jpg);
+  background-image: url(../imgs/foto5.jpg);
 }
 .foto6 {
-  background-image: url(imgs/foto6.jpg);
+  background-image: url(../imgs/foto6.jpg);
 }
 @media (max-width: 768px) {
   .fotos {
