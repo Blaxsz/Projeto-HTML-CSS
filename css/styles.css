@@ -44,7 +44,7 @@ li:hover {
 }
 
 #banner {
-  background-image: url(/imgs/batman-banner.webp);
+  background-image: url(../imgs/batman-banner.webp);
   background-position: 50% 50%;
   background-size: cover;
   width: 100%;
@@ -150,15 +150,15 @@ li:hover {
 }
 
 .banner1 {
-  background-image: url(/imgs/pattison.webp);
+  background-image: url(../imgs/pattison.webp);
 }
 
 .banner2 {
-  background-image: url(/imgs/zoe.webp);
+  background-image: url(../imgs/zoe.webp);
 }
 
 .banner3 {
-  background-image: url(/imgs/jeffrey.webp);
+  background-image: url(../imgs/jeffrey.webp);
 }
 
 footer {
