@@ -44,7 +44,7 @@ li:hover {
 }
 
 #banner {
-  background-image: url(https://i.imgur.com/YCuvOBZ.png);
+  background-image: url(/imgs/batman-banner.webp);
   background-position: 50% 50%;
   background-size: cover;
   width: 100%;
@@ -150,15 +150,15 @@ li:hover {
 }
 
 .banner1 {
-  background-image: url(https://imgur.com/wjtNnyk.png);
+  background-image: url(/imgs/pattison.webp);
 }
 
 .banner2 {
-  background-image: url(https://imgur.com/fz458mI.png);
+  background-image: url(/imgs/zoe.webp);
 }
 
 .banner3 {
-  background-image: url(https://imgur.com/LQXFYey.png);
+  background-image: url(/imgs/jeffrey.webp);
 }
 
 footer {
